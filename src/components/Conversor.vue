@@ -42,6 +42,7 @@ export default {
     border-radius: 20px;
     color: #ff79c6;
     border: 2px solid #ff79c6;
+    margin: 0 auto;
   }
   
   .button {

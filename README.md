@@ -28,8 +28,5 @@ ___________
 ### https://draculatheme.com/contribute
 
 # 📱 Me siga no Instagram - Follow me on Instagram:
-<<<<<<< HEAD
-<a href="https://www.instagram.com/oluish/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-=======
-<a href="https://www.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
->>>>>>> b82cd899eb144653cf7f8adb9546d1757aaf0354
+<a href="https://www.instagram.com/oluishe/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+
