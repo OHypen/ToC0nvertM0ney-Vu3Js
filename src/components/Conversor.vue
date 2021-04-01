@@ -47,9 +47,12 @@ export default {
   
   .button {
     border: 1px solid #44475a;
-    border-radius: 10px;
+    border-radius: 50px;
     background-color: transparent;
     color: #8be9fd;
+    font-size: 30px;
+    margin-top: 10px;
+    width: 190px;
   }
   
   .text {
@@ -57,7 +60,13 @@ export default {
     background-color: transparent;
     border-radius: 10px;
     color: white;
+    height: 30px;
+    text-align: center;
   }
-
+  
+  input::placeholder {
+    color: #ff79c6;
+    text-align: center;
+  }
 </style>
 

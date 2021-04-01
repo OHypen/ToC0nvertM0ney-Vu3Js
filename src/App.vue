@@ -36,7 +36,6 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #071924;
   margin-top: 60px;
 
 }
@@ -47,7 +46,6 @@ export default {
 }
 h1 {
   color: #ff79c6;
-  border: 0px 1px 1px solid green;
 }
 
 @media only screen and (max-width: 800px) {
